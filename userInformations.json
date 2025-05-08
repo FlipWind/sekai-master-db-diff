@@ -427,7 +427,8 @@
     "platform": "all",
     "title": "【10月17日18時20分追記】【重要】「4周年記念スタンプミッション」のミッション修正に対するお詫びと補てんに関するご案内",
     "path": "information\/index.html?id=bug_4th_annive_stampmission_broom_20240930_add4",
-    "startAt": 1729156800000
+    "startAt": 1729156800000,
+    "endAt": 1729710000000
   },
   {
     "id": 4289,
@@ -576,7 +577,8 @@
     "platform": "all",
     "title": " 【3月30日11時30分追記】「v5.2.0」アップデートおよびメンテナンスのご案内",
     "path": "information\/index.html?id=info_update_v5-2-0_forceupdate",
-    "startAt": 1743301800000
+    "startAt": 1743301800000,
+    "endAt": 1745262000000
   },
   {
     "id": 4797,
@@ -762,7 +764,8 @@
     "platform": "all",
     "title": "AWSサーバー障害により実施した緊急メンテナンスについて",
     "path": "information\/index.html?id=bug_log-in-Error_20250415",
-    "startAt": 1744709400000
+    "startAt": 1744709400000,
+    "endAt": 1746126000000
   },
   {
     "id": 4857,
@@ -896,7 +899,8 @@
     "platform": "all",
     "title": " 【4月30日11時30分追記】「v5.3.0」アップデートとそれに伴うメンテナンス、およびデータダウンロードに関するご案内",
     "path": "information\/index.html?id=info_update_v5-3-0_forceupdate",
-    "startAt": 1745980200000
+    "startAt": 1745980200000,
+    "endAt": 1747940400000
   },
   {
     "id": 4881,
@@ -1132,6 +1136,20 @@
     "bannerAssetbundleName": "banner_news_event167"
   },
   {
+    "id": 4900,
+    "seq": 1,
+    "displayOrder": 72210,
+    "informationType": "normal",
+    "informationTag": "gacha",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "[天馬咲希]HAPPY BIRTHDAYガチャ開催！",
+    "path": "information\/index.html?id=info_gacha728_held",
+    "startAt": 1746716400000,
+    "endAt": 1749880800000,
+    "bannerAssetbundleName": "banner_news_gacha728"
+  },
+  {
     "id": 4909,
     "seq": 1,
     "displayOrder": 71965,
@@ -1190,7 +1208,8 @@
     "platform": "all",
     "title": "5月8日メンテナンス実施のお知らせ",
     "path": "information\/index.html?id=info_maintenance_20250508",
-    "startAt": 1746619200000
+    "startAt": 1746619200000,
+    "endAt": 1746708600000
   },
   {
     "id": 4918,
@@ -1205,6 +1224,19 @@
     "startAt": 1746621900000,
     "endAt": 1746792000000,
     "bannerAssetbundleName": "banner_news_event166"
+  },
+  {
+    "id": 4919,
+    "seq": 1,
+    "displayOrder": 72200,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "【5月8日21時50分追記】5月8日メンテナンス実施のお知らせ",
+    "path": "information\/index.html?id=info_maintenance_20250508_end",
+    "startAt": 1746708600000,
+    "endAt": 1748977200000
   },
   {
     "id": 4920,
